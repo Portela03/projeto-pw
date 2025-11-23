@@ -262,10 +262,4 @@ curl -X POST http://localhost:3000/authors \
 ✅ Timestamps automáticos  
 ✅ Código limpo e documentado  
 
-## 📄 Licença
 
-ISC
-
----
-
-**Desenvolvido com ❤️ usando Node.js e Express**
